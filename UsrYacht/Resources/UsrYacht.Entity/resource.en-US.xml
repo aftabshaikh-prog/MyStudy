@@ -14,6 +14,7 @@
 			<Item Name="Columns.UsrPrice.Caption" Value="Price, USD" />
 			<Item Name="Columns.UsrRegCode.Caption" Value="Reg Code" />
 			<Item Name="Columns.UsrStatus.Caption" Value="Status" />
+			<Item Name="Columns.UsrTicketPrice.Caption" Value="Ticket Price, USD" />
 		</Items>
 	</Group>
 </Resources>
