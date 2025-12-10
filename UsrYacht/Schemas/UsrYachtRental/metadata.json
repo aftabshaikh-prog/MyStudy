@@ -21,6 +21,7 @@
 + MetaData.Schema.D29 "null"
 + MetaData.Schema.D30 "null"
 + MetaData.Schema.D31 "null"
++ MetaData.Schema.D38 true
 + MetaData.Schema.D2 {
   "UId": "a8cfc240-b44a-fb89-2cfe-39d8ab86af8b",
   "A2": "UsrComment",

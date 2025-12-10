@@ -8,6 +8,7 @@
 			<Item Name="LocalizableStrings.addRecord_n7qmeba_caption.Value" Value="Add new" />
 			<Item Name="LocalizableStrings.addRecord_txmsv95_caption.Value" Value="Add new" />
 			<Item Name="LocalizableStrings.addRecord_wzhu2h3_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.CalculateAvgTicketPriceMenuItem_caption.Value" Value="Start run avg ticket price process" />
 			<Item Name="LocalizableStrings.CrewCountCannotBeLess.Value" Value="Crew count cannot be less than 1." />
 			<Item Name="LocalizableStrings.ExpansionPanel_8reo25u_title.Value" Value="Yacht Rental" />
 			<Item Name="LocalizableStrings.GridDetailAddBtn_cibevbn_caption.Value" Value="New" />
@@ -21,6 +22,8 @@
 			<Item Name="LocalizableStrings.PassengersCountCannotBeLess.Value" Value="Passengers count cannot be less" />
 			<Item Name="LocalizableStrings.PriceCannotBeLess.Value" Value="Price cannot be less than 50 USD" />
 			<Item Name="LocalizableStrings.PushMeButton_caption.Value" Value="Push me!" />
+			<Item Name="LocalizableStrings.RunCalcTicketPricemenuItem_caption.Value" Value="Actions" />
+			<Item Name="LocalizableStrings.RunMaxPriceWebServiceMenuItem_caption.Value" Value="Run max price web service" />
 		</Items>
 	</Group>
 </Resources>

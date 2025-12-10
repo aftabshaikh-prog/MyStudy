@@ -8,6 +8,7 @@
       "Name": "BaseLookup"
     },
     "ManagerName": "EntitySchemaManager",
-    "Caption": "Yacht Category"
+    "Caption": "Yacht Category",
+    "DependsOn": []
   }
 }

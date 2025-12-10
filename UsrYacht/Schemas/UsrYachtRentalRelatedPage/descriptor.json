@@ -4,6 +4,7 @@
     "Name": "UsrYachtRentalRelatedPage",
     "ModifiedOnUtc": "\/Date(1764677893000)\/",
     "ManagerName": "AddonSchemaManager",
-    "Caption": "Yacht Rental (Page settings)"
+    "Caption": "Yacht Rental (Page settings)",
+    "DependsOn": []
   }
 }

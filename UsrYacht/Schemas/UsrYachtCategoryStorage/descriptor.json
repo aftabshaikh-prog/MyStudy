@@ -8,6 +8,7 @@
       "Name": "BaseEntity"
     },
     "ManagerName": "EntitySchemaManager",
-    "Caption": "Yacht Category Storage"
+    "Caption": "Yacht Category Storage",
+    "DependsOn": []
   }
 }
